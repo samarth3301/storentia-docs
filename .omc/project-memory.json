@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1774865600460,
+  "projectRoot": "/Users/samarthhhh/Documents/techsolace/products/storentia-docs",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "ai-tools": {
+      "path": "ai-tools",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1774865600441,
+      "keyFiles": [
+        "claude-code.mdx",
+        "cursor.mdx",
+        "windsurf.mdx"
+      ]
+    },
+    "api-reference": {
+      "path": "api-reference",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1774865600442,
+      "keyFiles": [
+        "introduction.mdx",
+        "openapi.json"
+      ]
+    },
+    "essentials": {
+      "path": "essentials",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1774865600442,
+      "keyFiles": [
+        "code.mdx",
+        "images.mdx",
+        "markdown.mdx",
+        "navigation.mdx",
+        "reusable-snippets.mdx"
+      ]
+    },
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1774865600442,
+      "keyFiles": [
+        "checks-passed.png",
+        "hero-dark.png",
+        "hero-light.png"
+      ]
+    },
+    "logo": {
+      "path": "logo",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1774865600443,
+      "keyFiles": [
+        "dark.svg",
+        "light.svg"
+      ]
+    },
+    "snippets": {
+      "path": "snippets",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1774865600443,
+      "keyFiles": [
+        "snippet-intro.mdx"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
